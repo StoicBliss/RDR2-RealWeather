@@ -1,0 +1,6 @@
+*.zip
+*.asi
+*.dll
+*.log
+.DS_Store
+Thumbs.db
